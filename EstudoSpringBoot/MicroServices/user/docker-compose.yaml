@@ -1,0 +1,22 @@
+services:
+  ms-user:
+    image: 'postgres:latest'
+    container_name: microservicesUser
+    restart: always
+    environment:
+      POSTGRES_DB: ms-user
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: 12345
+    ports:
+      - '5432:5432'
+
+  ms-email:
+    image: 'postgres:latest'
+    container_name: microservicesEmail
+    restart: always
+    environment:
+      POSTGRES_DB: ms-email
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+    ports:
+      - '5439:5439'

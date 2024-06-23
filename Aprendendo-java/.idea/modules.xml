@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aprendendo-java.iml" filepath="$PROJECT_DIR$/.idea/Aprendendo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura sequencial/Saida_de_dados/Saida_de_dados.iml" filepath="$PROJECT_DIR$/Estrutura sequencial/Saida_de_dados/Saida_de_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura sequencial/casting/casting.iml" filepath="$PROJECT_DIR$/Estrutura sequencial/casting/casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura sequencial/entradaDeDados/entradaDeDados.iml" filepath="$PROJECT_DIR$/Estrutura sequencial/entradaDeDados/entradaDeDados.iml" />
+    </modules>
+  </component>
+</project>
